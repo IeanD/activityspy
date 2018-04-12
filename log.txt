@@ -1,0 +1,50 @@
+--------- beginning of main
+--------- beginning of system
+04-11 20:54:17.422  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:54:17.425  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:54:17.425  4481  4481 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:54:17.479  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:54:17.479  4481  4481 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@806156a, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@f199a5b}]
+04-11 20:54:17.489  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:54:17.494  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:54:18.934  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:54:18.938  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:54:18.938  4481  4481 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:54:18.996  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:54:18.997  4481  4481 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@f86ad1a, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@131d04b}]
+04-11 20:54:18.999  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:54:19.003  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:55:16.805  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:55:16.810  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:55:16.811  4481  4481 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:55:16.866  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:55:16.866  4481  4481 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@137b4ed, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@a266f22}]
+04-11 20:55:16.866  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:55:16.870  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:55:18.041  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:55:18.044  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:55:18.045  4481  4481 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:55:18.118  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:55:18.119  4481  4481 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@c850acc, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@3b7f115}]
+04-11 20:55:18.120  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:55:18.123  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:55:19.925  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:55:19.955  4481  4481 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:55:23.764  4481  4481 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:55:29.404  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:55:29.407  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:55:29.416  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:55:33.268  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:55:33.272  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:55:33.272  4540  4540 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:55:33.341  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:55:33.342  4540  4540 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@806156a, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@f199a5b}]
+04-11 20:55:33.345  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:55:33.350  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onResume fired
+04-11 20:55:34.554  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onPause fired
+04-11 20:55:34.556  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onStop fired
+04-11 20:55:34.557  4540  4540 E edu.washington.ieand.activityspy.MainActivity: We're going down, captain!
+04-11 20:55:34.607  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onCreate fired
+04-11 20:55:34.607  4540  4540 I edu.washington.ieand.activityspy.MainActivity: Bundle[{android:viewHierarchyState=Bundle[{android:views={16908290=android.view.AbsSavedState$1@2206755, 2131165190=android.support.v7.widget.Toolbar$SavedState@f86ad1a, 2131165192=android.view.AbsSavedState$1@2206755, 2131165198=android.view.AbsSavedState$1@2206755, 2131165231=android.view.AbsSavedState$1@2206755}}], android:lastAutofillId=1073741823, android:fragments=android.app.FragmentManagerState@131d04b}]
+04-11 20:55:34.610  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onStart fired
+04-11 20:55:34.617  4540  4540 I edu.washington.ieand.activityspy.MainActivity: onResume fired
